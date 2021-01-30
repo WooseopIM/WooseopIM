@@ -3,6 +3,8 @@
 
 ![Kahn's github stats](https://github-readme-stats.vercel.app/api?username=WooseopIM&show_icons=true)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lws_kahn)](https://solved.ac/lws_kahn)
+
 <!--
 **WooseopIM/WooseopIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
