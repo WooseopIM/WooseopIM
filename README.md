@@ -1,5 +1,7 @@
-### WooseopIM 👋
+### WooseopIM (Kahn) 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWooseopIM&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2339C4BC&title=Hello+World+%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Kahn's github stats](https://github-readme-stats.vercel.app/api?username=WooseopIM&show_icons=true)
 
 <!--
 **WooseopIM/WooseopIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
